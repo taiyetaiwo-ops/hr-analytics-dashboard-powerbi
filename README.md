@@ -89,7 +89,7 @@ The dashboard helps HR professionals and business leaders identify employee turn
 - `dashboard-screenshot.png` – Dashboard preview image
 - `dataset.csv` – Source dataset
 - `README.md` – Project documentation
-
+https://github.com/taiyetaiwo-ops/hr-analytics-dashboard-powerbi
 ---
 
 ## Author
